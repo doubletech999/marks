@@ -5,28 +5,15 @@
 
 // Constants
 const STUDENTS = [
-    "Ahmad Mansour Abd Al-Hafez Maatan",
-    "Adam Khattab Awad Nawabit",
-    "Adham Mahmoud Obeid Maatan",
-    "Baha' Eddin Yasser Hassan Maatan",
-    "Jawad Samer Mohamed Maatan",
-    "Hasan Shadi Hassan Maatan",
-    "Khair Allah Fadi Za'al Maatan",
-    "Taha Mousa Taha Maatan",
-    "Abd Al-Karim Samer Abd Al-Karim Maatan",
-    "Abd Allah Yasin Khaled Maatan",
-    "Abd Al-Nassar Abd Allah Maatan",
-    "Ali Khattab Khader Suleiman",
-    "Amad Hamza Odeh Nawabit",
-    "Amru Asaad Saleh Al-Attan",
-    "Qais Samer Mahmoud Bikieh",
-    "Karim Zreid Maatan",
-    "Karim Mohamed Mahmoud Bikieh",
-    "Kamal Khaled Mohamed Maatan",
-    "Mohamed Munzer Khalil Maatan",
-    "Hisham Maher Abd Al-Qader Maatan",
-    "Waleed Samer Nasser Nawabit",
-    "Yasin Khaled Mohamed Al-Maatan"
+    "ابرار حذيفة خضير سمرين",
+    "بنان شادي حسين معطان",
+    "تقوى عمر ساري ابو صبحة",
+    "' حسنة عماد احمد سمرين",
+    "رغد كاظم عبد العزيز معطان",
+    "رفيف منثور عبد الحافظ معطان",
+    "عاطف رأفت محمد نوابيت",
+    "محمد نواف خضر بركات",
+    "ندى عبد الله فايز معطان"
 ];
 
 const WINNING_SCORE = 30;
